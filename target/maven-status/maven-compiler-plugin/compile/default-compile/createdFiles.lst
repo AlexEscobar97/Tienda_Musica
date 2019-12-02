@@ -1,5 +1,5 @@
 Conexion\testing.class
+modelo\UsuariosBean.class
 Dao\UsuarioDao.class
 Conexion\Conexion.class
 control\UsuarioServlet.class
-modelo\UsuariosBean.class

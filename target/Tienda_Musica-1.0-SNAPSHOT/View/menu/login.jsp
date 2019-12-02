@@ -30,6 +30,7 @@
     <body>
 
         <img src="http://infonews.tv/subportals/static/f/YWR2Zi9pbWFnZW5lcy8yMDE4LzAxLzVhNGRjOTY1Y2MxMDkuanBnfHw5ODB8fDQ4MHx8dGh1bWI/5a4dc965cc109.jpg?v1.020" id="fondo"/>
+        
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
